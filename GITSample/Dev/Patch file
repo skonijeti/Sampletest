@@ -1,0 +1,20 @@
+diff --git "a/C:\\Users\\g9mkoni\\Documents\\GitHub\\Hello\\Testwar.war" "b/C:\\Users\\g9mkoni\\Desktop\\GITSample\\Dev\\Testwar.war"
+index 7562577..b6b33d4 100644
+--- "a/C:\\Users\\g9mkoni\\Documents\\GitHub\\Hello\\Testwar.war"
++++ "b/C:\\Users\\g9mkoni\\Desktop\\GITSample\\Dev\\Testwar.war"
+@@ -1,10 +1,10 @@
+ Hello
+ How
+-R 
+-U?
+-
+-
+-
++R
++U
++Where
++are you
++I am fine
+ 
+ echo # Sampletest >> README.md
+ git init
